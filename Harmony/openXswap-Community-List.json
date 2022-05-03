@@ -1,0 +1,18 @@
+{
+  
+  "name":"openXswap Community Token List",
+  "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
+  "description":[
+    "Community Tokens on Harmony"
+  ],
+  "tokens":[
+    {
+      "chainId": 1666600000,
+      "address": "0x01a4b054110d57069c1658afbc46730529a3e326",
+      "decimals": 18,
+      "name": "OpenSwap Token",
+      "symbol": "OpenX",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
+    },
+  ]
+}

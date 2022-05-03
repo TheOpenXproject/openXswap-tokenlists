@@ -1,0 +1,18 @@
+{
+  
+  "name":"OpenXSwap Community Token List",
+  "logoURI":"https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
+  "description":[
+    "Community Tokens on Ethereum"
+  ],
+  "tokens":[
+    {
+      "chainId": 1,
+      "address": "0x57d579F483854c62FEf850B8a5332B0d8424b7E2",
+      "decimals": 18,
+      "name": "OpenSwap Token",
+      "symbol": "OpenX",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
+    },
+  ]
+}

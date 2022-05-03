@@ -1,0 +1,18 @@
+{
+  
+  "name":"openXswap Community Token List",
+  "logoURI":"https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
+  "description":[
+    "Community Tokens on BSC"
+  ],
+  "tokens":[
+    {
+      "chainId": 56,
+      "address": "0x9929b92f4C743D014c68dFE022D04C8C8FcfA37A",
+      "decimals": 18,
+      "name": "OpenSwap Token",
+      "symbol": "OpenX",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
+    }
+  ]
+}
