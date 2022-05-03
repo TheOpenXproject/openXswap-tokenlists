@@ -13,7 +13,7 @@
         "patch": 0
     },
     "tokens": [
-                {
+        {
             "chainId": 1666600000,
             "address": "0x01a4b054110d57069c1658afbc46730529a3e326",
             "decimals": 18,
@@ -84,7 +84,7 @@
             "name": "USD Coin",
             "symbol": "USDC",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x095370AE41FF23798d96c1ADF7D58Ae6a2b05b18/logo.png"
-          },
+        },
         {
             "chainId": 250,
             "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
@@ -206,5 +206,5 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png"
         }
     ],
-    "timestamp": "2021-02-09T17:49:00+00:00"
+"timestamp": "2021-02-09T17:49:00+00:00"
 }
