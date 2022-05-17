@@ -14,6 +14,14 @@
     },
     "tokens": [
         {
+            "address":"0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+            "chainId":250,
+            "decimals":18,
+            "logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg",
+            "name":"Fantom",
+            "symbol":"FTM"
+        },
+        {
             "chainId": 1666600000,
             "address": "0x01a4b054110d57069c1658afbc46730529a3e326",
             "decimals": 18,

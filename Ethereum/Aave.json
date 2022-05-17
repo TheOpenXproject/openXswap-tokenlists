@@ -31,6 +31,14 @@
 	},
 	"tokens":[
 		{
+			"address":"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+			"chainId":1,
+			"decimals":18,
+			"logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+			"name":"Ether",
+			"symbol":"ETH"
+		},
+		{
 			"chainId": 1,
 			"address": "0x57d579F483854c62FEf850B8a5332B0d8424b7E2",
 			"decimals": 18,

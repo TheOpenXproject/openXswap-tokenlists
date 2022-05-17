@@ -2,7 +2,15 @@
   "name": "openXswap Token List",
   "timestamp": "2022-04-25T06:18:19.387Z",
   "logoURI":"https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
-  "tokens": [ 
+  "tokens": [
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    },
     {
       "chainId": 56,
       "address": "0x9929b92f4C743D014c68dFE022D04C8C8FcfA37A",

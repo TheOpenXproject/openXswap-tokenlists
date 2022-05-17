@@ -4,6 +4,14 @@
   "logoURI":"https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
   "tokens":[
     {
+      "address":"0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "chainId":43114,
+      "decimals":18,
+      "logoURI":"https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.jpg",
+      "name":"AVAX",
+      "symbol":"AVAX"
+    },
+    {
       "chainId": 1666600000,
       "address": "0x01A4b054110d57069c1658AFBC46730529A3E326",
       "decimals": 18,

@@ -8,8 +8,8 @@
     "chainId": 1337,
     "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
     "decimals": 18,
-    "name": "Wrapped One",
-    "symbol": "WONE",
+    "name": "One",
+    "symbol": "WNE",
     "logoURI": "https://openfi.dev/tokens/default/ONE.png"
   },
    {
