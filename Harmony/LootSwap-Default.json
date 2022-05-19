@@ -70,6 +70,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/5/small/dogecoin.png"
     },
     {
+        "chainId": 1666600000,
+        "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+        "decimals": 18,
+        "name": "Defi Kingdom Token",
+        "symbol": "JEWEL",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12319.png"
+    },
+    {
       "chainId": 1666600000,
       "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
       "symbol": "1SUSHI",

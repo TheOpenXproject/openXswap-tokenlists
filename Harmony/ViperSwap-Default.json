@@ -46,6 +46,14 @@
       "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1AAVE.png"
     },
     {
+        "chainId": 1666600000,
+        "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+        "decimals": 18,
+        "name": "Defi Kingdom Token",
+        "symbol": "JEWEL",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12319.png"
+    },
+    {
       "chainId": 1666600000,
       "address": "0xDc5f76104D0B8D2bF2c2Bbe06CDFE17004E9010f",
       "symbol": "1BAL",
