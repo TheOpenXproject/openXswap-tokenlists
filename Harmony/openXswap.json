@@ -60,6 +60,14 @@
       "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UST.png"
     },
     {
+      "chainId": 1666600000,
+      "address": "0xED0B4b0F0E2c17646682fc98ACe09feB99aF3adE",
+      "decimals": 18,
+      "name": "Reverse Protocol",
+      "symbol": "RVRS",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14503.png"
+    },
+    {
         "chainId": 1666600000,
         "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
         "decimals": 18,

@@ -44,6 +44,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F.png"
     },
     {
+      "chainId": 56,
+      "address": "0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
+      "decimals": 18,
+      "name": "Green satoshi token",
+      "symbol": "GST",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20236.png"
+    },
+    {
       "name": "Ankr",
       "symbol": "ANKR",
       "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
