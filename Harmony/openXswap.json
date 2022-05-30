@@ -108,6 +108,14 @@
       "logoURI": "https://legacy.lootswap.finance/tokens/LOOT-LP.png"
     },
     {
+        "chainId": 1666600000,
+        "address": "0x1e05c8b69e4128949fcef16811a819ef2f55d33e",
+        "decimals": 18,
+        "name": "SonicSwap Token",
+        "symbol": "SONIC",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13120.png"
+    },
+    {
       "chainId": 1666600000,
       "address": "0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE",
       "symbol": "VINCI",
