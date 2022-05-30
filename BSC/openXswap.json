@@ -46,7 +46,7 @@
     {
       "chainId": 56,
       "address": "0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
-      "decimals": 18,
+      "decimals": 8,
       "name": "Green satoshi token",
       "symbol": "GST",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20236.png"
