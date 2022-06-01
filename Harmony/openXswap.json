@@ -978,6 +978,158 @@
   "name": "ONEUSD",
   "decimals": 8,
   "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ONEUSD.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x02f667745A77C376Db5b232846D4b2454e533699",
+  "symbol": "xFOX",
+  "name": "Fox Governance Token",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/xfox.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x9d6cB12FD0b6a5E0bFF64004b9097F1dEAdCac7B",
+  "symbol": "1BULL",
+  "name": "Bullish",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/1bull.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x1449Ab6C24Dcf3DbC1971021f465af1B81F48F07",
+  "symbol": "OIL",
+  "name": "Oil",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/oil.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x5b747e23a9E4c509dd06fbd2c0e3cB8B846e398F",
+  "symbol": "EVO",
+  "name": "EvoVerses",
+  "decimals": 18,
+  "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/evoToken.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x0C2868befB66144a82eB7a48383082E28f8E34fb",
+  "symbol": "STARDUST",
+  "name": "STARDUST",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/stardust.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0xC079d0385492Ac2D0e89ca079c186Dd71ef49B1e",
+  "symbol": "USE",
+  "name": "Useless",
+  "decimals": 18,
+  "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/useless.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x5DCE7A3E8B53387A9Ee1cE0d855b7A8d948100A3",
+  "symbol": "GRAV",
+  "name": "Gravity",
+  "decimals": 18,
+  "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/grav.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x0c8054cB26a92c90529c1705c06E27Eb7AfdE501",
+  "symbol": "XEN",
+  "name": "Xenon",
+  "decimals": 18,
+  "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/xenon.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0xDA7fE71960cd1C19E1b86D6929efD36058F60a03",
+  "symbol": "LUMEN",
+  "name": "LUMEN",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/lumen.svg"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x22D62b19b7039333ad773b7185BB61294F3AdC19",
+  "symbol": "stONE",
+  "name": "Staked ONE",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/stone.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
+  "symbol": "FOX",
+  "name": "FarmersOnly Token",
+  "decimals": 18,
+  "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/foxswap-circle_05.svg"
+},
+{
+  "chainId": 1666600000,
+  "address": "0xD74433B187Cf0ba998Ad9Be3486B929c76815215",
+  "symbol": "MIS",
+  "name": "Artemis Protocol",
+  "decimals": 18,
+  "logoURI": "https://i.imgur.com/pAmbhAU.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x7ca9C1D0bb11F1b7C31ee5538D7a75aAF2d8E2FC",
+  "symbol": "COINKX",
+  "name": "PiggyBank Token",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/coink.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x53BA62dDD5a9A6B6d97C7a496D7832D13A9218c4",
+  "symbol": "rAVAX",
+  "name": "Avalanche Relay",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/avax.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0xb12c13e66AdE1F72f71834f2FC5082Db8C091358",
+  "symbol": "AVAX",
+  "name": "Avalanche - Anyswap",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/avax.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0xD647090c1cdcdbB72De411B1bA16f03d4A7bba02",
+  "symbol": "rFTM",
+  "name": "Fantom - Relay",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/ftm.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0x735aBE48e8782948a37C7765ECb76b98CdE97B0F",
+  "symbol": "FTM",
+  "name": "Fantom - Anyswap",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/ftm.png"
+},
+{
+  "chainId": 1666600000,
+  "address": "0xCf1709Ad76A79d5a60210F23e81cE2460542A836",
+  "symbol": "TRANQ",
+  "name": "Tranquil",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/tranq.svg"
+},
+{
+  "chainId": 1666600000,
+  "address": "0xF9565E8c4E13862f677F144B3cdC8700D9c4BA31",
+  "symbol": "HVILLE",
+  "name": "HarmonyVille",
+  "decimals": 18,
+  "logoURI": "https://app.farmersonly.fi/assets/images/tokens/hville.png"
 }
   ]
 }
