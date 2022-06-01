@@ -405,14 +405,6 @@
 },
 {
   "chainId": 1666600000,
-  "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
-  "symbol": "oSWAP",
-  "name": "OpenSwap Token",
-  "decimals": 18,
-  "logoURI": "https://legacy.lootswap.finance/tokens/OSWAP.png"
-},
-{
-  "chainId": 1666600000,
   "address": "0x25dceE96FCD63Ad88B812cCE02b3Fcf7d1504F2D",
   "symbol": "TROLL",
   "name": "Troll",
