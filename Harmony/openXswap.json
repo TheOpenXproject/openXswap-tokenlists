@@ -19,6 +19,14 @@
   "symbol": "OpenX",
   "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
 },
+{ 
+  "chainId": 1666600000, 
+  "address": "0x59fA612968F54080aba370Fd822343c43F23C874",
+  "symbol": "WARU", 
+  "name": "WARU Token",
+  "decimals": 18, 
+  "logoURI": "https://www.waruprotocol.one/assets/logo.94e2b55c.png"
+},
 {
   "chainId": 1666600000,
   "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
