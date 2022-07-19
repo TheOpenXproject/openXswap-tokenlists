@@ -501,7 +501,7 @@
 },
 {
   "chainId": 1666600000,
-  "address": "0x1e05c8b69e4128949fcef16811a819ef2f55d33e",
+  "address": "0x1e05C8B69e4128949FcEf16811a819eF2f55D33E",
   "decimals": 18,
   "name": "SonicSwap Token",
   "symbol": "SONIC",
