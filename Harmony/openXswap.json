@@ -1130,6 +1130,14 @@
   "name": "HarmonyVille",
   "decimals": 18,
   "logoURI": "https://app.farmersonly.fi/assets/images/tokens/hville.png"
+},
+{ 
+  "chainId": 1666600000, 
+  "address": "0x1c0869a9ee9e866288Fd4A62342BFe8941DACf94",
+  "symbol": "LOGE", 
+  "name": "Logecoin",
+  "decimals": 18, 
+  "logoURI": "https://uploads-ssl.webflow.com/60ad000b682e9f22e6aa457c/62040a8c496ca877fb32b8f7_Logecoin%20128.png"
 }
   ]
 }
