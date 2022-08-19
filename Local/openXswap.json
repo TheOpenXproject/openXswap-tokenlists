@@ -6,91 +6,19 @@
   "tokens": [
     {
     "chainId": 1337,
-    "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
     "decimals": 18,
-    "name": "One",
-    "symbol": "WNE",
-    "logoURI": "https://openfi.dev/tokens/default/ONE.png"
+    "name": "Wrapped Optimism",
+    "symbol": "WOP",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png"
   },
-   {
+  {
     "chainId": 1337,
     "address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
-    "decimals": 18,
-    "name": "BUSD",
-    "symbol": "BUSD",
-    "logoURI": "https://openfi.dev/tokens/default/BUSD.png"
-  },
-  {
-    "chainId": 1337,
-    "address": "0x0165878A594ca255338adfa4d48449f69242Eb8F",
-    "decimals": 18,
-    "name": "BNB",
-    "symbol": "BNB",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/1839.png"
-  },
-  {
-    "chainId": 1337 ,
-    "address": "0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0",
-    "decimals": 8,
-    "name": "Bitcoin",
-    "symbol": "BTC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
-  },
-  {
-    "chainId": 1337,
-    "address": "0x68B1D87F95878fE05B998F19b66F4baba5De1aed",
     "decimals": 18,
     "name": "OpenSwap Token",
     "symbol": "OpenX",
     "logoURI": "https://openfi.dev/tokens/default/oSWAP.png"
-  },
-  {
-    "chainId": 1337,
-    "address": "0x998abeb3E57409262aE5b751f60747921B33613E",
-    "decimals": 18,
-    "name": "Defikingdom Token",
-    "symbol": "Jewel",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12319.png"
-  },
-  {
-    "chainId": 1337,
-    "address": "0xFD471836031dc5108809D173A067e8486B9047A3",
-    "decimals": 18,
-    "name": "ViperSwap Token",
-    "symbol": "Viper",
-    "logoURI": "https://assets.coingecko.com/coins/images/15305/large/0c4b902b40f14db918f4500956386414ab7ebcfe.jpeg?1620371961"
-  },
-  {
-    "chainId": 1337,
-    "address": "0x610178dA211FEF7D417bC0e6FeD39F05609AD788",
-    "decimals": 18,
-    "name": "Luna Terra",
-    "symbol": "Luna",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png"
-  },
-  {
-    "chainId": 1337,
-    "address": "0x9A676e781A523b5d0C0e43731313A708CB607508",
-    "decimals": 18,
-    "name": "Polygon Matic",
-    "symbol": "Matic",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
-  },
-  {
-    "chainId": 1337,
-    "address": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6",
-    "decimals": 6,
-    "name": "USDC Token",
-    "symbol": "USDC",
-    "logoURI": "https://openfi.dev/tokens/default/USDC.png"
-  },
-  {
-    "chainId": 1337,
-    "address": "0x959922bE3CAee4b8Cd9a407cc3ac1C251C2007B1",
-    "decimals": 18,
-    "name": "Cardano",
-    "symbol": "ADA",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/2010.png"
   }
 ]
 }
