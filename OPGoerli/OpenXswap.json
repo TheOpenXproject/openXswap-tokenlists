@@ -1,0 +1,23 @@
+{
+  "name": "openXswap Token List",
+  "tags": {},
+  "logoURI":"https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
+  "tokens": [
+    {
+      "chainId": 420,
+      "address": "0x0f2b7053b32b4240ce2e400e80F6B20876899B2B",
+      "decimals": 18,
+      "name": "OpenSwap Token",
+      "symbol": "OpenX",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x6e0CEf87B1D55ec54d657f0aDA04AE2c90A470bA",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/op_alt.png"
+    }
+  ]
+}
