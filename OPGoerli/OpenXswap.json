@@ -4,6 +4,14 @@
   "logoURI":"https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
   "tokens": [
     {
+      "name": "Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 420,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
       "chainId": 420,
       "address": "0x0f2b7053b32b4240ce2e400e80F6B20876899B2B",
       "decimals": 18,
@@ -18,6 +26,46 @@
       "symbol": "OP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/op_alt.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x951b65e180C053383736CBc02118DaCDF732117d",
+      "name": "tUSDC",
+      "symbol": "tUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x5AE99ccE8b5BC9c639A27CCC2c84448C7a6a0A12",
+      "name": "tDAI",
+      "symbol": "tDAI",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x61a9A359896ba67c11Bd63a5Cc953Bf99055Ff34",
+      "name": "tAPE",
+      "symbol": "tAPE",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xC762043E211571eB34f1ef377e5e8e76914962f9.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x95b20Fe08b268E2e7a44aEBB03443ec8098728b4",
+      "name": "tFRAX",
+      "symbol": "tFRAX",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6952.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x9301907DF8480689113c89de58b1943a2F8fBe9a",
+      "name": "tSHIB",
+      "symbol": "tSHIB",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
     }
   ]
 }
