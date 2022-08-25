@@ -21,6 +21,14 @@
     },
     {
       "chainId": 420,
+      "address": "0xdd0aC86059984a4684904E0148356f0347F354E5",
+      "decimals": 18,
+      "name": "OpenXbar Token",
+      "symbol": "xOpenX",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/xX.png"
+    },
+    {
+      "chainId": 420,
       "address": "0x6e0CEf87B1D55ec54d657f0aDA04AE2c90A470bA",
       "name": "Optimism",
       "symbol": "OP",
