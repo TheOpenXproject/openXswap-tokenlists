@@ -13,7 +13,7 @@
     },
     {
       "chainId": 420,
-      "address": "0x0f2b7053b32b4240ce2e400e80F6B20876899B2B",
+      "address": "0xe30727276c804ff165a69AB504C7090fcA74e146",
       "decimals": 18,
       "name": "OpenSwap Token",
       "symbol": "OpenX",
@@ -21,15 +21,15 @@
     },
     {
       "chainId": 420,
-      "address": "0xdd0aC86059984a4684904E0148356f0347F354E5",
+      "address": "0x50A46d86d4f2D8227b4aF5CB8EB6f1d4a07d2E04",
       "decimals": 18,
-      "name": "OpenXbar Token",
+      "name": "xOpenSwap Token",
       "symbol": "xOpenX",
       "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/xX.png"
     },
     {
       "chainId": 420,
-      "address": "0x6e0CEf87B1D55ec54d657f0aDA04AE2c90A470bA",
+      "address": "0xbcF8147C53bbF4b19251921C293C6b456551ddDe",
       "name": "Optimism",
       "symbol": "OP",
       "decimals": 18,
