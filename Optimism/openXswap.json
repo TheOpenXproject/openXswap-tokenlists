@@ -5,6 +5,39 @@
   "tokens": [
     {
       "chainId": 10,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 10,
       "address": "0xc3864f98f2a61A7cAeb95b039D031b4E2f55e0e9",
       "decimals": 18,
       "name": "OpenX Optimism",
@@ -18,6 +51,14 @@
       "name": "xOpenX Optimism",
       "symbol": "xOpenX",
       "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/xX.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+      "decimals": 18,
+      "name": "Mai Stablecoin",
+      "symbol": "MAI",
+      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MAI.png"
     },
     {
       "chainId": 10,
@@ -318,17 +359,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
-      "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
       "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
       "name": "Paper",
       "symbol": "PAPER",
@@ -620,17 +650,6 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
