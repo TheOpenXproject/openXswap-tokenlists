@@ -63,9 +63,9 @@
     },
     {
       "chainId": 10,
-      "address": "0x5AE99ccE8b5BC9c639A27CCC2c84448C7a6a0A12",
+      "address": "0x2513486f18eeE1498D7b6281f668B955181Dd0D9",
       "decimals": 18,
-      "name": "xOpenX Optimism",
+      "name": "OpenXSwap Gov Token",
       "symbol": "xOpenX",
       "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/xX.png"
     },
@@ -695,6 +695,14 @@
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
+    },
+    {
+      "chainId": 10,
+      "address": "0x5AE99ccE8b5BC9c639A27CCC2c84448C7a6a0A12",
+      "decimals": 18,
+      "name": "Old xOpenX Optimism",
+      "symbol": "Old xOpenX",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/xX.png"
     }
   ]
 }
