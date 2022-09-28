@@ -225,17 +225,6 @@
     },
     {
       "chainId": 10,
-      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
       "address": "0x1eba7a6a72c894026cd654ac5cdcf83a46445b08",
       "name": "Gitcoin",
       "symbol": "GTC",
