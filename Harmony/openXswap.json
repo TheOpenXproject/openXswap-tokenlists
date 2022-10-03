@@ -29,6 +29,14 @@
 },
 {
   "chainId": 1666600000,
+  "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+  "symbol": "MAI",
+  "name": "MAI",
+  "decimals": 18,
+  "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MAI.png"
+},
+{
+  "chainId": 1666600000,
   "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
   "symbol": "1DAI",
   "name": "Dai Stablecoin",
