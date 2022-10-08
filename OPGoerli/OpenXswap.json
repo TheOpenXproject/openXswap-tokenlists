@@ -5,7 +5,7 @@
   "tokens": [
     {
       "name": "Ether",
-      "address": "0x4200000000000000000000000000000000000006",
+      "address": "0x89b53FFB01f6D7Ea5795444F8503AC54B1d788a2",
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 420,
@@ -29,7 +29,7 @@
     },
     {
       "chainId": 420,
-      "address": "0xbcF8147C53bbF4b19251921C293C6b456551ddDe",
+      "address": "0xdcdA0f3A9ffAFC2f9DE4380f62733B16C6FF51b6",
       "name": "Optimism",
       "symbol": "OP",
       "decimals": 18,
