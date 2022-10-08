@@ -13,7 +13,7 @@
     },
     {
       "chainId": 420,
-      "address": "0xe30727276c804ff165a69AB504C7090fcA74e146",
+      "address": "0x225440E0e2BCbfFc8f9738D9E998503A695aB2ff",
       "decimals": 18,
       "name": "OpenSwap Token",
       "symbol": "OpenX",
@@ -21,7 +21,7 @@
     },
     {
       "chainId": 420,
-      "address": "0x50A46d86d4f2D8227b4aF5CB8EB6f1d4a07d2E04",
+      "address": "0xb97FB7D306B1f376E3517541e9D314BC73A62a0D",
       "decimals": 18,
       "name": "xOpenSwap Token",
       "symbol": "xOpenX",
