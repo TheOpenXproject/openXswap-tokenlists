@@ -4,14 +4,6 @@
   "logoURI":"https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
   "tokens": [
     {
-      "name": "Ether",
-      "address": "0x89b53FFB01f6D7Ea5795444F8503AC54B1d788a2",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 420,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
-    },
-    {
       "chainId": 420,
       "address": "0x225440E0e2BCbfFc8f9738D9E998503A695aB2ff",
       "decimals": 18,
