@@ -5,6 +5,17 @@
   "tokens": [
     {
       "chainId": 10,
+      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 10,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Ether",
       "symbol": "ETH",
@@ -14,6 +25,7 @@
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
     },
+    
     {
       "chainId": 10,
       "address": "0x4200000000000000000000000000000000000042",
@@ -57,6 +69,17 @@
       "name": "OpenXSwap Gov Token",
       "symbol": "xOpenX",
       "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/xX.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+      "name": "Synthetic Ether",
+      "symbol": "sETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/sETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
     },
     {
       "chainId": 10,
@@ -434,17 +457,6 @@
     },
     {
       "chainId": 10,
-      "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
-      "name": "Synthetic Ether",
-      "symbol": "sETH",
-      "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/sETH/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
       "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
       "name": "Synthetic Chainlink",
       "symbol": "sLINK",
@@ -615,17 +627,6 @@
       "symbol": "WAD",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
-      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
