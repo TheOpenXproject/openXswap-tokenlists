@@ -66,6 +66,38 @@
       "symbol": "tSHIB",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0xAFfFEAe33CBB1aa0ddc92410F89e188f6d783f26",
+      "decimals": 18,
+      "name": "tVelodrome",
+      "symbol": "tVELO",
+      "logoURI": "https://avatars.githubusercontent.com/u/104097115?s=200&v=4"
+    },
+    {
+      "chainId": 420,
+      "address": "0xE66379198F0C48Ff2588674F6A6675a0C89A68b6",
+      "decimals": 18,
+      "name": "Perpetually Bonded Velo",
+      "symbol": "opxveVELO",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxveVELO.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0xdb7A72b1FBBC8Af2710ebD2B15934B79533fb613",
+      "decimals": 18,
+      "name": "Perpetually Bonded USDC",
+      "symbol": "opxUSDC",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxUSDC.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x8F1ebBF686160D5e0e6a46632BC5C74E31359d34",
+      "decimals": 18,
+      "name": "Perpetually Bonded OP",
+      "symbol": "opxOP",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxOP.png"
     }
   ]
 }
