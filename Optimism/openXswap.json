@@ -104,6 +104,30 @@
     },
     {
       "chainId": 10,
+      "address": "0x46f21fDa29F1339e0aB543763FF683D399e393eC",
+      "decimals": 18,
+      "name": "Perpetually Bonded Velo",
+      "symbol": "opxveVELO",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxveVELO.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x10b87D256eC671C4db695C2C0bbB57b363cFb470",
+      "decimals": 18,
+      "name": "Perpetually Bonded USDC",
+      "symbol": "opxUSDC",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxUSDC.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xB0BEB0524a1E37BD693AA30b5536e61fdF51AabD",
+      "decimals": 18,
+      "name": "Perpetually Bonded OP",
+      "symbol": "opxOP",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxOP.png"
+    }
+    {
+      "chainId": 10,
       "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
       "name": "Aelin Protocol",
       "symbol": "AELIN",
