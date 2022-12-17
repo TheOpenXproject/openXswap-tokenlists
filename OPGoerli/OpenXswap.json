@@ -5,6 +5,14 @@
   "tokens": [
     {
       "chainId": 420,
+      "address": "0x89b53FFB01f6D7Ea5795444F8503AC54B1d788a2",
+      "name": "tEther",
+      "symbol": "tETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg"
+    },
+    {
+      "chainId": 420,
       "address": "0x225440E0e2BCbfFc8f9738D9E998503A695aB2ff",
       "decimals": 18,
       "name": "OpenSwap Token",
