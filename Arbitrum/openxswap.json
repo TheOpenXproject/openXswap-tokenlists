@@ -139,7 +139,7 @@
                 "chainId": 42161,
                 "address": "0xD29F8a9e76Ef42ba9f749583ed07cAe7bFaEc389",
                 "decimals": 18,
-                "name": "Solid Lizard Token",
+                "name": "Perpetually Bonded Solid Lizard",
                 "symbol": "opxveSLIZ",
                 "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxveSLIZ.png"
         },
