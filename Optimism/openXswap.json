@@ -369,6 +369,22 @@
     },
     {
       "chainId": 10,
+      "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+      "name": "FRAX",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/FRAX.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/FXS.png"
+    },
+    {
+      "chainId": 10,
       "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
       "name": "Mask Network",
       "symbol": "MASK",
@@ -388,6 +404,46 @@
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
+    },
+    {
+      "chainId": 10,
+      "address": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
+      "decimals": 18,
+      "name": "Sonne Finance",
+      "symbol": "SONNE",
+      "logoURI": "https://docs.velodrome.finance/tokens/SONNE.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x3417e54a51924c225330f8770514ad5560b9098d",
+      "decimals": 18,
+      "name": "REDKoin",
+      "symbol": "RED",
+      "logoURI": "https://docs.velodrome.finance/tokens/RED.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+      "name": "Beefy",
+      "symbol": "BIFI",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/BIFI.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xfDeFFc7Ad816BF7867C642dF7eBC2CC5554ec265",
+      "name": "Beefy Velo",
+      "symbol": "BeVELO",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/beVELO.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x139283255069Ea5deeF6170699AAEF7139526f1f",
+      "name": "OptiDoge",
+      "symbol": "OPTIDOGE",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/OPTIDOGE.png"
     },
     {
       "chainId": 10,
@@ -435,6 +491,22 @@
     },
     {
       "chainId": 10,
+      "address": "0x5A5fFf6F753d7C11A56A52FE47a177a87e431655",
+      "name": "Synapse Protocol",
+      "symbol": "SYN",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/SYN.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x375488f097176507e39b9653b88fdc52cde736bf",
+      "name": "Tarot Protocol",
+      "symbol": "TAROT",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/TAROT.png"
+    },
+    {
+      "chainId": 10,
       "address": "0x7FB688CCf682d58f86D7e38e03f9D22e7705448B",
       "name": "Rai Reflex Index",
       "symbol": "RAI",
@@ -443,6 +515,22 @@
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
+    },
+    {
+      "chainId": 10,
+      "address": "0x676f784d19c7f1ac6c6beaeaac78b02a73427852",
+      "name": "Optimism Prime",
+      "symbol": "OPP",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/OPP.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+      "decimals": 18,
+      "name": "HOP Protocol Token",
+      "symbol": "HOP",
+      "logoURI": "https://docs.velodrome.finance/tokens/HOP.svg"
     },
     {
       "chainId": 10,
