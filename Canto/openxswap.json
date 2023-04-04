@@ -1,0 +1,358 @@
+{
+  "name": "openXswap Token List",
+  "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
+  "tokens": [
+    {
+      "name": "WCANTO",
+      "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
+      "symbol": "WCANTO",
+      "decimals": 18,
+      "chainId": 7700,
+      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/03/wcanto.png"
+    },
+    {
+      "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+      "chainId": 7700,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
+    },
+    {
+      "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+      "chainId": 7700,
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+    },
+    {
+      "address": "0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.slingshot.finance/icons/canto_0x4e71a2e537b7f9d9413d3991d37958c0b5e1e503",
+      "name": "NOTE",
+      "symbol": "NOTE"
+    },
+    {
+      "address": "0xB5b060055F0d1eF5174329913ef861bC3aDdF029",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/02/Flow-circle-aqua-150x150.png",
+      "name": "Flow",
+      "symbol": "FLOW"
+    },
+    {
+      "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+      "chainId": 7700,
+      "decimals": 6,
+      "logoURI": "https://assets.slingshot.finance/icons/canto_0xeceeefcee421d8062ef8d6b4d814efe4dc898265",
+      "name": "ATOM",
+      "symbol": "ATOM"
+    },
+    {
+      "address": "0x533C0f08BE45eaaC821392B85E67Fb0c7DC2cab7",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://app.cantohm.money/static/media/cantologo.194a85b9.png",
+      "name": "COHM",
+      "symbol": "COHM"
+    },
+    {
+      "address": "0x5d6d848eaab022e2c919d9df9fc6a7a255280f82",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://app.cantohm.money/static/media/cantologo.194a85b9.png",
+      "name": "scOHM",
+      "symbol": "scOHM"
+    },
+    {
+      "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
+      "chainId": 7700,
+      "decimals": 6,
+      "logoURI": "https://app.osmosis.zone/_next/image?url=%2Ftokens%2Fsomm.png&w=64&q=75",
+      "name": "SOMM",
+      "symbol": "SOMM"
+    },
+    {
+      "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
+      "chainId": 7700,
+      "decimals": 6,
+      "logoURI": "https://app.osmosis.zone/_next/image?url=%2Ftokens%2Fgrav.svg&w=64&q=75",
+      "name": "GRAV",
+      "symbol": "GRAV"
+    },
+    {
+      "address": "0x1D54EcB8583Ca25895c512A8308389fFD581F9c9",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://app.osmosis.zone/_next/image?url=%2Ftokens%2Finj.svg&w=64&q=75",
+      "name": "INJ",
+      "symbol": "INJ"
+    },
+    {
+      "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
+      "chainId": 7700,
+      "decimals": 6,
+      "logoURI": "https://app.osmosis.zone/_next/image?url=%2Ftokens%2Fkava.png&w=64&q=75",
+      "name": "KAVA",
+      "symbol": "KAVA"
+    },
+    {
+      "address": "0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717",
+      "chainId": 7700,
+      "decimals": 6,
+      "logoURI": "https://app.osmosis.zone/_next/image?url=%2Ftokens%2Fosmo.svg&w=64&q=75",
+      "name": "OSMO",
+      "symbol": "OSMO"
+    },
+    {
+      "address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
+      "chainId": 7700,
+      "decimals": 6,
+      "logoURI": "https://app.osmosis.zone/_next/image?url=%2Ftokens%2Fakt.svg&w=64&q=75",
+      "name": "AKASH",
+      "symbol": "AKASH"
+    },
+    {
+      "address": "0x5db67696C3c088DfBf588d3dd849f44266ff0ffa",
+      "chainId": 7700,
+      "decimals": 6,
+      "logoURI": "https://crescent.explorers.guru/chains/crescent.svg",
+      "name": "CRE",
+      "symbol": "CRE"
+    },
+    {
+      "address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
+      "chainId": 7700,
+      "decimals": 6,
+      "logoURI": "https://app.osmosis.zone/_next/image?url=%2Ftokens%2Fcmdx.png&w=64&q=75",
+      "name": "CMDX",
+      "symbol": "CMDX"
+    },
+    {
+      "address": "0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.slingshot.finance/icons/canto_0x7264610a66eca758a8ce95cf11ff5741e1fd0455",
+      "name": "CINU",
+      "symbol": "CINU"
+    },
+    {
+      "address": "0x38D11B40D2173009aDB245b869e90525950aE345",
+      "chainId": 7700,
+      "decimals": 9,
+      "logoURI": "https://teal-working-newt-713.mypinata.cloud/ipfs/QmRX9dYrNkGv9379n4ksma3AM8w14f8ofe25yvqF8Th8dX/1.png",
+      "name": "CBONK",
+      "symbol": "CBONK"
+    },
+    {
+      "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://ethereum.org/static/655aaefb744ae2f9f818095a436d38b5/448ee/eth-diamond-purple-purple.webp",
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    {
+      "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://docs.velocimeter.xyz/tokens/fBOMB.svg",
+      "name": "Fantom Bomb",
+      "symbol": "fBOMB"
+    },
+    {
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://beefy.com/cf57eaab09241a85ed3089f7c8c19167.png",
+      "name": "Beefy.Finance",
+      "symbol": "BIFI"
+    },
+    {
+      "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+      "chainId": 7700,
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+      "name": "Multichain BTC",
+      "symbol": "multiBTC"
+    },
+    {
+      "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17881/small/tarot-200px.png",
+      "name": "Tarot",
+      "symbol": "TAROT"
+    },
+    {
+      "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/acryptos/acryptos-assets/master/icon-circle-1500.png ",
+      "name": "ACryptoS",
+      "symbol": "ACS"
+    },
+    {
+      "address": "0x08638a74A8134c747Dce29B57472cc2B57F35653",
+      "chainId": 7700,
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    {
+      "address": "0xFb7F77faaA3b69ef4C15d6305C79AD92B387C89F",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
+      "name": "BNB",
+      "symbol": "BNB"
+    },
+    {
+      "address": "0x381Ea7A7EE6a1e2982e01E7b6837f775a1a4B07F",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png",
+      "name": "BUSD",
+      "symbol": "BUSD"
+    },
+    {
+      "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27606/large/IqwOmX-c_400x400.jpeg",
+      "name": "Impermax",
+      "symbol": "IBEX"
+    },
+    {
+      "address": "0xD32eB974468ed767338533842D2D4Cc90B9BAb46",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/nft_contracts/images/1612/small/the-merge-regenesis.png?1663741627",
+      "name": "qSTARS",
+      "symbol": "qSTARS"
+    },
+    {
+      "address": "0x9d6F2a9fDB32708e1AC07788cc29D6125ac73027",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/nft_contracts/images/1612/small/the-merge-regenesis.png?1663741627",
+      "name": "qATOM",
+      "symbol": "qATOM"
+    },
+    {
+      "address": "0xB5124FA2b2cF92B2D469b249433BA1c96BDF536D",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/nft_contracts/images/1612/small/the-merge-regenesis.png?1663741627",
+      "name": "qREGEN",
+      "symbol": "qREGEN"
+    },
+    {
+      "address": "0xF0965c8f0755CF080a61C91EDd6707F0532c8fE7",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26857/small/quicksilver-logo-icon-render.png?1660484191",
+      "name": "QCK",
+      "symbol": "QCK"
+    },
+    {
+      "address": "0x205CF44075E77A3543abC690437F3b2819bc450a",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/markets/images/887/small/evmoswap.png?1654269660s",
+      "name": "stEVMOS",
+      "symbol": "stEVMOS"
+    },
+    {
+      "address": "0x4A2a90D444DbB7163B5861b772f882BbA394Ca67",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26316/small/stATOM.png?1663309183",
+      "name": "stATOM",
+      "symbol": "stATOM"
+    },
+    {
+      "address": "0xe01C6D4987Fc8dCE22988DADa92d56dA701d0Fe0",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28700/small/stJUNO_800.png?1673414957",
+      "name": "stJUNO",
+      "symbol": "stJUNO"
+    },
+    {
+      "address": "0x3515F25AB7637adcF1b69F4D384ed5936B83431F",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28698/small/stOSMO_800.png?1673414720",
+      "name": "stOSMO",
+      "symbol": "stOSMO"
+    },
+    {
+      "address": "0x4AF57825b86Abf93D4F9D720bEF7c1C1b300A6F3",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22363/small/stars.png?1645256657",
+      "name": "stSTARS",
+      "symbol": "stSTARS"
+    },
+    {
+      "address": "0x13974cf36984216C90D1F4FC815C156092feA396",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27275/small/STRD_800.png?1663116708",
+      "name": "STRD",
+      "symbol": "STRD"
+    },
+    {
+      "address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28289/small/B5712581-7546-47FA-8ECA-B256CD8F8F34.png?1669213326",
+      "name": "stkAtom",
+      "symbol": "stkAtom"
+    },
+    {
+      "address": "0xc8B4d3e67238e38B20d38908646fF6F4F48De5EC",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14582/small/512_Light.png?1617149658",
+      "name": "xprt",
+      "symbol": "xprt"
+    },
+    {
+      "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14879/small/Sentinel_512X512.png?1622174499",
+      "name": "DVPN",
+      "symbol": "DVPN"
+    },
+    {
+      "address": "0xF5b24c0093b65408ACE53df7ce86a02448d53b25",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24023/small/evmos.png?1653958927",
+      "name": "EVMOS",
+      "symbol": "EVMOS"
+    },
+    {
+      "address": "0xc71aAf8e486e3F33841BB56Ca3FD2aC3fa8D29a8",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://ethereum.org/static/655aaefb744ae2f9f818095a436d38b5/448ee/eth-diamond-purple-purple.webp",
+      "name": "WSTETH",
+      "symbol": "WSTETH"
+    },
+    {
+      "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22568/small/cropped-FINALwithbrick-2-1-1.png?1642060468",
+      "name": "CRE8R",
+      "symbol": "CRE8R"
+    }
+  ]
+}
