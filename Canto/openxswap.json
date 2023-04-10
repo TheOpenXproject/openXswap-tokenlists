@@ -43,6 +43,14 @@
       "symbol": "FLOW"
     },
     {
+      "chainId": 7700,
+      "address": "0xbDdCf6AB290E7Ad076CA103183730d1Bf0661112",
+      "decimals": 18,
+      "name": "Perpetually Bonded Flow",
+      "symbol": "opxveFLOW",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxveFLOW.png"
+    },
+    {
       "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
       "chainId": 7700,
       "decimals": 6,
