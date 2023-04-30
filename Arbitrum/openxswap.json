@@ -8,6 +8,14 @@
     },
     "tokens":[
         {
+            "symbol": "ARB",
+            "name": "Arbitrum token",
+            "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/29463/small/arb.jpeg?1679049100"
+        },
+        {
             "chainId":42161,
             "address":"0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
             "name":"Ether",
