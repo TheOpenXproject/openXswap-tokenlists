@@ -16,6 +16,17 @@
     },
     {
       "chainId": 10,
+      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 10,
       "address": "0x4200000000000000000000000000000000000042",
       "name": "Optimism",
       "symbol": "OP",
@@ -31,7 +42,7 @@
       "decimals": 18,
       "name": "Mai Stablecoin",
       "symbol": "MAI",
-      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MAI.png"
+      "logoURI": "https://app.mai.finance/static/media/mimatic-red.1ccf3be7.png"
     },
     {
       "chainId": 10,
@@ -41,7 +52,6 @@
       "symbol": "VELO",
       "logoURI": "https://avatars.githubusercontent.com/u/104097115?s=200&v=4"
     },
-    
     {
       "chainId": 10,
       "address": "0xc3864f98f2a61A7cAeb95b039D031b4E2f55e0e9",
@@ -57,6 +67,17 @@
       "name": "OpenXSwap Gov Token",
       "symbol": "xOpenX",
       "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/xX.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+      "name": "Synthetic Ether",
+      "symbol": "sETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/sETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
     },
     {
       "chainId": 10,
@@ -79,6 +100,30 @@
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
+    },
+    {
+      "chainId": 10,
+      "address": "0x46f21fDa29F1339e0aB543763FF683D399e393eC",
+      "decimals": 18,
+      "name": "Perpetually Bonded Velo",
+      "symbol": "opxveVELO",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxveVELO.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x10b87D256eC671C4db695C2C0bbB57b363cFb470",
+      "decimals": 18,
+      "name": "Perpetually Bonded USDC",
+      "symbol": "opxUSDC",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxUSDC.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xB0BEB0524a1E37BD693AA30b5536e61fdF51AabD",
+      "decimals": 18,
+      "name": "Perpetually Bonded OP",
+      "symbol": "opxOP",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxOP.png"
     },
     {
       "chainId": 10,
@@ -324,6 +369,22 @@
     },
     {
       "chainId": 10,
+      "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+      "name": "FRAX",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/FRAX.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/FXS.png"
+    },
+    {
+      "chainId": 10,
       "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
       "name": "Mask Network",
       "symbol": "MASK",
@@ -343,6 +404,54 @@
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
+    },
+    {
+      "chainId": 10,
+      "address": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
+      "decimals": 18,
+      "name": "Sonne Finance",
+      "symbol": "SONNE",
+      "logoURI": "https://docs.velodrome.finance/tokens/SONNE.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x3417e54a51924c225330f8770514ad5560b9098d",
+      "decimals": 18,
+      "name": "REDKoin",
+      "symbol": "RED",
+      "logoURI": "https://docs.velodrome.finance/tokens/RED.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+      "name": "Fantom Bomb",
+      "symbol": "fBOMB",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/fBOMB.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+      "name": "Beefy",
+      "symbol": "BIFI",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/BIFI.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xfDeFFc7Ad816BF7867C642dF7eBC2CC5554ec265",
+      "name": "Beefy Velo",
+      "symbol": "BeVELO",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/beVELO.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x139283255069Ea5deeF6170699AAEF7139526f1f",
+      "name": "OptiDoge",
+      "symbol": "OPTIDOGE",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/OPTIDOGE.png"
     },
     {
       "chainId": 10,
@@ -390,6 +499,22 @@
     },
     {
       "chainId": 10,
+      "address": "0x5A5fFf6F753d7C11A56A52FE47a177a87e431655",
+      "name": "Synapse Protocol",
+      "symbol": "SYN",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/SYN.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x375488f097176507e39b9653b88fdc52cde736bf",
+      "name": "Tarot Protocol",
+      "symbol": "TAROT",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/TAROT.png"
+    },
+    {
+      "chainId": 10,
       "address": "0x7FB688CCf682d58f86D7e38e03f9D22e7705448B",
       "name": "Rai Reflex Index",
       "symbol": "RAI",
@@ -398,6 +523,22 @@
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
+    },
+    {
+      "chainId": 10,
+      "address": "0x676f784d19c7f1ac6c6beaeaac78b02a73427852",
+      "name": "Optimism Prime",
+      "symbol": "OPP",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/OPP.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+      "decimals": 18,
+      "name": "HOP Protocol Token",
+      "symbol": "HOP",
+      "logoURI": "https://docs.velodrome.finance/tokens/HOP.svg"
     },
     {
       "chainId": 10,
@@ -428,17 +569,6 @@
       "symbol": "sBTC",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/sBTC/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
-      "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
-      "name": "Synthetic Ether",
-      "symbol": "sETH",
-      "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/sETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -615,17 +745,6 @@
       "symbol": "WAD",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
-      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }

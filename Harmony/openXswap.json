@@ -69,6 +69,14 @@
 },
 {
   "chainId": 1666600000,
+  "address": "0x471f66F75af9238A2FA23bA23862B5957109fB21",
+  "symbol": "USDS",
+  "name": "Stably USD",
+  "decimals": 6,
+  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3719.png"
+},
+{
+  "chainId": 1666600000,
   "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
   "symbol": "1WBTC",
   "name": "Wrapped BTC",

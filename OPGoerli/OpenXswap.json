@@ -5,6 +5,14 @@
   "tokens": [
     {
       "chainId": 420,
+      "address": "0x89b53FFB01f6D7Ea5795444F8503AC54B1d788a2",
+      "name": "tEther",
+      "symbol": "tETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg"
+    },
+    {
+      "chainId": 420,
       "address": "0x225440E0e2BCbfFc8f9738D9E998503A695aB2ff",
       "decimals": 18,
       "name": "OpenSwap Token",
@@ -26,6 +34,78 @@
       "symbol": "OP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/op_alt.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x3C68755E21Fe2Ba6c706811c5370BDa8efA2e970",
+      "name": "tUSDC",
+      "symbol": "tUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x5AE99ccE8b5BC9c639A27CCC2c84448C7a6a0A12",
+      "name": "tDAI",
+      "symbol": "tDAI",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x61a9A359896ba67c11Bd63a5Cc953Bf99055Ff34",
+      "name": "tAPE",
+      "symbol": "tAPE",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xC762043E211571eB34f1ef377e5e8e76914962f9.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x95b20Fe08b268E2e7a44aEBB03443ec8098728b4",
+      "name": "tFRAX",
+      "symbol": "tFRAX",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6952.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x9301907DF8480689113c89de58b1943a2F8fBe9a",
+      "name": "tSHIB",
+      "symbol": "tSHIB",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0xAFfFEAe33CBB1aa0ddc92410F89e188f6d783f26",
+      "decimals": 18,
+      "name": "tVelodrome",
+      "symbol": "tVELO",
+      "logoURI": "https://avatars.githubusercontent.com/u/104097115?s=200&v=4"
+    },
+    {
+      "chainId": 420,
+      "address": "0xE66379198F0C48Ff2588674F6A6675a0C89A68b6",
+      "decimals": 18,
+      "name": "Perpetually Bonded Velo",
+      "symbol": "opxveVELO",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxveVELO.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0xdb7A72b1FBBC8Af2710ebD2B15934B79533fb613",
+      "decimals": 18,
+      "name": "Perpetually Bonded USDC",
+      "symbol": "opxUSDC",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxUSDC.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x8F1ebBF686160D5e0e6a46632BC5C74E31359d34",
+      "decimals": 18,
+      "name": "Perpetually Bonded OP",
+      "symbol": "opxOP",
+      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxOP.png"
     }
   ]
 }
