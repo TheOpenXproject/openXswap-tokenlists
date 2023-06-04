@@ -13,14 +13,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
     },
     {
-      "chainId": 1666600000,
-      "address": "0x01A4b054110d57069c1658AFBC46730529A3E326",
-      "decimals": 18,
-      "name": "OpenSwap Token",
-      "symbol": "OpenX",
-      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
-    },
-    {
       "chainId": 137,
       "name": "Ether - PoS",
       "symbol": "ETH",

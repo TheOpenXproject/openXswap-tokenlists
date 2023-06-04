@@ -23,14 +23,6 @@
 			"symbol":"ETH"
 		},
 		{
-			"chainId": 1,
-			"address": "0x57d579F483854c62FEf850B8a5332B0d8424b7E2",
-			"decimals": 18,
-			"name": "OpenSwap Token",
-			"symbol": "1OpenX",
-			"logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
-		},
-		{
 			"address":"0x111111111117dC0aa78b770fA6A738034120C302",
 			"chainId":1,
 			"decimals":18,

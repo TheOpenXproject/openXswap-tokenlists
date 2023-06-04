@@ -1,7 +1,7 @@
 {
 
     "name":"openXswap Community Token List",
-    "logoURI":"https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
+    "logoURI":"https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/X.png",
     "description":[
         "Community Tokens on Fantom"
     ],
@@ -13,14 +13,6 @@
             "logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg",
             "name":"Fantom",
             "symbol":"FTM"
-        },
-        {
-            "chainId": 250,
-            "address": "0x01A4b054110d57069c1658AFBC46730529A3E326",
-            "decimals": 18,
-            "name": "OpenSwap Token",
-            "symbol": "OpenX",
-            "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
         }
     ]
 }

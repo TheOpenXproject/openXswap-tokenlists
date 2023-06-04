@@ -1,7 +1,7 @@
 {
   "name": "openXswap Token List",
   "tags": {},
-  "logoURI":"https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
+  "logoURI":"https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/X.png",
   "tokens": [
     {
       "chainId": 420,
@@ -17,7 +17,7 @@
       "decimals": 18,
       "name": "OpenSwap Token",
       "symbol": "OpenX",
-      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
+      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/X.png"
     },
     {
       "chainId": 420,
@@ -25,7 +25,7 @@
       "decimals": 18,
       "name": "xOpenSwap Token",
       "symbol": "xOpenX",
-      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/xX.png"
+      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/xX.png"
     },
     {
       "chainId": 420,
@@ -33,7 +33,7 @@
       "name": "Optimism",
       "symbol": "OP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/op_alt.png"
+      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/op_alt.png"
     },
     {
       "chainId": 420,
@@ -89,7 +89,7 @@
       "decimals": 18,
       "name": "Perpetually Bonded Velo",
       "symbol": "opxveVELO",
-      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxveVELO.png"
+      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/opxveVELO.png"
     },
     {
       "chainId": 420,
@@ -97,7 +97,7 @@
       "decimals": 18,
       "name": "Perpetually Bonded USDC",
       "symbol": "opxUSDC",
-      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxUSDC.png"
+      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/opxUSDC.png"
     },
     {
       "chainId": 420,
@@ -105,7 +105,7 @@
       "decimals": 18,
       "name": "Perpetually Bonded OP",
       "symbol": "opxOP",
-      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxOP.png"
+      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/opxOP.png"
     }
   ]
 }

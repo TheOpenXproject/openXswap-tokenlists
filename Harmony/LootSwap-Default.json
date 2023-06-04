@@ -19,7 +19,7 @@
       "decimals": 18,
       "name": "OpenSwap Token",
       "symbol": "OpenX",
-      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
+      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/X.png"
     },
     {
       "chainId": 1666600000,

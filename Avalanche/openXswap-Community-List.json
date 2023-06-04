@@ -1,7 +1,7 @@
 {
   
   "name":"openXswap Community Token List",
-  "logoURI":"https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
+  "logoURI":"https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/X.png",
   "description":[
     "Community Tokens on Avalanche"
   ],
@@ -12,7 +12,7 @@
       "decimals": 18,
       "name": "OpenSwap Token",
       "symbol": "OpenX",
-      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
+      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/X.png"
     },
   ]
 }

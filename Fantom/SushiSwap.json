@@ -11,14 +11,6 @@
             "symbol":"FTM"
         },
 		{
-			"chainId": 1666600000,
-			"address": "0x01A4b054110d57069c1658AFBC46730529A3E326",
-			"decimals": 18,
-			"name": "OpenSwap Token",
-			"symbol": "OpenX",
-			"logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
-		},
-		{
 			"address":"0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
 			"chainId":250,
 			"decimals":18,

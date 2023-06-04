@@ -39,14 +39,6 @@
 			"symbol":"ETH"
 		},
 		{
-			"chainId": 1,
-			"address": "0x57d579F483854c62FEf850B8a5332B0d8424b7E2",
-			"decimals": 18,
-			"name": "OpenSwap Token",
-			"symbol": "1OpenX",
-			"logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
-		},
-		{
 			"name":"Dai Stablecoin",
 			"decimals":18,
 			"symbol":"DAI",

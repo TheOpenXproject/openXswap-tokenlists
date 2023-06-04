@@ -41,7 +41,7 @@
                 "decimals": 18,
                 "name": "Arbitrum OpenX",
                 "symbol": "aOpenX",
-                "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png"
+                "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/X.png"
         },
         {
             "chainId":42161,
@@ -157,7 +157,7 @@
                 "decimals": 18,
                 "name": "Perpetually Bonded Solid Lizard",
                 "symbol": "opxveSLIZ",
-                "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxveSLIZ.png"
+                "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/opxveSLIZ.png"
         },
         {
             "chainId":42161,

@@ -1,6 +1,6 @@
 {
   "name": "openXswap Token List",
-  "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/X.png",
+  "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/X.png",
   "tokens": [
     {
       "name": "WCANTO",
@@ -48,7 +48,7 @@
       "decimals": 18,
       "name": "Perpetually Bonded Flow",
       "symbol": "opxveFLOW",
-      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxveFLOW.png"
+      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/opxveFLOW.png"
     },
     {
       "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
