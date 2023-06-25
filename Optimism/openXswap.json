@@ -46,10 +46,18 @@
     },
     {
       "chainId": 10,
+      "address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+      "decimals": 18,
+      "name": "Velodrome V2",
+      "symbol": "VELO V2",
+      "logoURI": "https://avatars.githubusercontent.com/u/104097115?s=200&v=4"
+    },
+    {
+      "chainId": 10,
       "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
       "decimals": 18,
-      "name": "Velodrome",
-      "symbol": "VELO",
+      "name": "Velodrome V1",
+      "symbol": "VELO V1",
       "logoURI": "https://avatars.githubusercontent.com/u/104097115?s=200&v=4"
     },
     {
@@ -79,17 +87,7 @@
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
     },
-    {
-      "chainId": 10,
-      "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
-      "name": "0xBitcoin",
-      "symbol": "0xBTC",
-      "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
+    
     {
       "chainId": 10,
       "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
@@ -103,11 +101,19 @@
     },
     {
       "chainId": 10,
+      "address": "0xc38464250F51123078BBd7eA574E185F6623d037",
+      "decimals": 18,
+      "name": "Perpetually Bonded Velo V2",
+      "symbol": "opxVELO",
+      "logoURI": "https://raw.githubusercontent.com/TheOpenXProject/openXswap-misc/master/img/opxveVELO.png"
+    },
+    {
+      "chainId": 10,
       "address": "0x46f21fDa29F1339e0aB543763FF683D399e393eC",
       "decimals": 18,
-      "name": "Perpetually Bonded Velo",
-      "symbol": "opxveVELO",
-      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/opxveVELO.png"
+      "name": "Perpetually Bonded Velo V1",
+      "symbol": "opxveVELO V1",
+      "logoURI": "https://raw.githubusercontent.com/TheOpenXProject/openXswap-misc/master/img/opxveVELOV1.png"
     },
     {
       "chainId": 10,
@@ -132,6 +138,17 @@
       "symbol": "AELIN",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/AELIN/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
+      "name": "0xBitcoin",
+      "symbol": "0xBTC",
+      "decimals": 8,
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
