@@ -94,7 +94,7 @@
       }
     },
     {
-      "chainId": 10,
+      "chainId": 1337,
       "address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
       "decimals": 18,
       "name": "Velodrome V2",
@@ -102,7 +102,7 @@
       "logoURI": "https://avatars.githubusercontent.com/u/104097115?s=200&v=4"
     },
     {
-      "chainId": 10,
+      "chainId": 1337,
       "address": "0xc38464250F51123078BBd7eA574E185F6623d037",
       "decimals": 18,
       "name": "Perpetually Bonded Velo V2",
@@ -110,7 +110,7 @@
       "logoURI": "https://raw.githubusercontent.com/TheOpenXProject/openXswap-misc/master/img/opxveVELO.png"
     },
     {
-      "chainId": 10,
+      "chainId": 1337,
       "address": "0x46f21fDa29F1339e0aB543763FF683D399e393eC",
       "decimals": 18,
       "name": "Perpetually Bonded Velo V1",
@@ -118,7 +118,7 @@
       "logoURI": "https://raw.githubusercontent.com/TheOpenXProject/openXswap-misc/master/img/opxveVELOV1.png"
     },
     {
-      "chainId": 10,
+      "chainId": 1337,
       "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
       "decimals": 18,
       "name": "Velodrome V1",
