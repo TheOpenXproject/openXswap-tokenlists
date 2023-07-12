@@ -798,6 +798,293 @@
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
     },
+        {
+      "chainId": 10,
+      "address": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/LUSD.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c",
+      "name": "UniDex",
+      "symbol": "UNIDX",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/UNIDX.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x139283255069Ea5deeF6170699AAEF7139526f1f",
+      "name": "OptiDoge",
+      "symbol": "OPTIDOGE",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/OPTIDOGE.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x920Cf626a271321C151D027030D5d08aF699456b",
+      "name": "Kwenta DAO",
+      "symbol": "KWENTA",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/KWENTA.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xb0ae108669ceb86e9e98e8fe9e40d98b867855fd",
+      "name": "OneRing",
+      "symbol": "RING",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/RING.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+      "name": "Fantom Bomb",
+      "symbol": "fBOMB",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/fBOMB.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xDeBa4568ff4CC84B420bcbFb228De5b7F2807a5c",
+      "name": "Champion",
+      "symbol": "CHAM",
+      "decimals": 18,
+      "logoURI": "https://nightride.velodrome.finance/tokens/CHAM.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/frxETH.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "name": "Binance-Peg BUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/BUSD.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xd652776dE7Ad802be5EC7beBfafdA37600222B48",
+      "name": "SoliMax",
+      "symbol": "SLM",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/SLM.png",
+      "nativeChainAddress": "0x39263A476aADF768BE43a99b24C4e461098524a4",
+      "nativeChainId": 250
+    },
+    {
+      "chainId": 10,
+      "address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
+      "name": "Staked Frax Ether",
+      "symbol": "sfrxETH",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/sfrxETH.jpg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xfDeFFc7Ad816BF7867C642dF7eBC2CC5554ec265",
+      "name": "Beefy Velo",
+      "symbol": "BeVELO",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/beVELO.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xcdb4bb51801a1f399d4402c61bc098a72c382e65",
+      "name": "OPX",
+      "symbol": "OPX",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/OPX.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x15e770B95Edd73fD96b02EcE0266247D50895E76",
+      "name": "Jarvis Reward Token",
+      "symbol": "JRT",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/JRT.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x47536F17F4fF30e64A96a7555826b8f9e66ec468",
+      "name": "MUMMY",
+      "symbol": "MMY",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/MMY.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
+      "name": "Collab.Land Token",
+      "symbol": "COLLAB",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/COLLAB.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
+      "name": "DAI+",
+      "symbol": "DAI+",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/DAIplus.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
+      "name": "Decentralized USD",
+      "symbol": "USDD",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/USDD.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xfD389Dc9533717239856190F42475d3f263a270d",
+      "name": "Granary Token",
+      "symbol": "GRAIN",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/GRAIN.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+      "name": "Ethos Reserve Note",
+      "symbol": "ERN",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/ERN.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x929B939f8524c3Be977af57A4A0aD3fb1E374b50",
+      "name": "Meta",
+      "symbol": "MTA",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/MTA.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x6c2f7b6110a37b3B0fbdd811876be368df02E8B0",
+      "name": "StaFi rETH",
+      "symbol": "rETH",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/stafiRETH.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xD8737CA46aa6285dE7B8777a8e3db232911baD41",
+      "name": "StaFi Token",
+      "symbol": "FIS",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/FIS.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xca0e54b636db823847b29f506bffee743f57729d",
+      "name": "Essence Finance USD",
+      "symbol": "CHI",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/CHI.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x12ff4a259e14D4DCd239C447D23C9b00F7781d8F",
+      "name": "PEPE Optimism",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/PEPE.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97",
+      "name": "StargateToken",
+      "symbol": "STG",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/STG.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb",
+      "name": "Iron Bank",
+      "symbol": "IB",
+      "decimals": 18,
+      "logoURI": "https://assets.smold.app/api/token/10/0x00a35FD824c717879BF370E70AC6868b95870Dfb/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xd3594E879B358F430E20F82bea61e83562d49D48",
+      "name": "Paraswap",
+      "symbol": "PSP",
+      "decimals": 18,
+      "logoURI": "https://assets.smold.app/api/token/10/0xd3594E879B358F430E20F82bea61e83562d49D48/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xc26921b5b9ee80773774d36c84328ccb22c3a819",
+      "name": "Wrapped OptiDoge",
+      "symbol": "wOptiDoge",
+      "decimals": 18,
+      "logoURI": "https://assets.smold.app/api/token/10/0xC26921B5b9ee80773774d36C84328ccb22c3a819/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
+      "name": "BlueNorva Token",
+      "symbol": "BLU",
+      "decimals": 18,
+      "logoURI": "https://assets.smold.app/api/token/10/0xa50b23cdfb2ec7c590e84f403256f67ce6dffb84/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x9a2e53158e12bc09270af10c16a466cb2b5d7836",
+      "name": "Metronome DAO",
+      "symbol": "MET",
+      "decimals": 18,
+      "logoURI": "https://assets.smold.app/api/token/10/0x9a2e53158e12bc09270af10c16a466cb2b5d7836/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+      "name": "Optimism tBTC v2",
+      "symbol": "tBTC",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/TBTC.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x1610e3c85dd44af31ed7f33a63642012dca0c5a5",
+      "name": "Metronome Synth ETH",
+      "symbol": "msETH",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/msETH.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776",
+      "name": "Promethios",
+      "symbol": "FIRE",
+      "decimals": 9,
+      "logoURI": "https://docs.velodrome.finance/tokens/FIRE.png"
+    },
+	    {
+      "chainId": 10,
+      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "USDT"
+      }
+    },
     {
       "chainId": 1337,
       "address": "0x5AE99ccE8b5BC9c639A27CCC2c84448C7a6a0A12",
