@@ -1555,7 +1555,7 @@
       "decimals": 9,
       "name": "Wrapped USDR",
       "symbol": "wUSDR",
-      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/xX.png"
+      "logoURI": "https://docs.velodrome.finance/tokens/wUSDR.svg"
     },
      {
       "chainId": 10,
@@ -1579,7 +1579,7 @@
       "decimals": 18,
       "name": "Alchemix USD",
       "symbol": "alUSD",
-      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/xX.png"
+      "logoURI": "https://docs.velodrome.finance/tokens/alUSD.svg"
     },
     {
       "chainId": 10,
@@ -1587,7 +1587,7 @@
       "decimals": 18,
       "name": "wTBT(Bridge Token) ",
       "symbol": "wTBT",
-      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/xX.png"
+      "logoURI": "https://docs.velodrome.finance/tokens/wTBT.svg"
     },
     {
       "chainId": 10,
@@ -1595,7 +1595,7 @@
       "decimals": 18,
       "name": "BOB",
       "symbol": "BOB",
-      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/xX.png"
+      "logoURI": "https://docs.velodrome.finance/tokens/BOB.svg"
     },
     {
       "chainId": 10,
@@ -1603,7 +1603,7 @@
       "decimals": 18,
       "name": "agEUR",
       "symbol": "agEUR",
-      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/xX.png"
+      "logoURI": "https://docs.velodrome.finance/tokens/agEUR.svg"
     },
      {
       "chainId": 10,
@@ -1611,7 +1611,7 @@
       "decimals": 6,
       "name": "USD+",
       "symbol": "USD+",
-      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/xX.png"
+      "logoURI": "https://docs.velodrome.finance/tokens/USD+.svg"
     },
      {
       "chainId": 10,
