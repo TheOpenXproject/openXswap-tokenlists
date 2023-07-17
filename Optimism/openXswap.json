@@ -440,22 +440,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
-      "name": "Fantom Bomb",
-      "symbol": "fBOMB",
-      "decimals": 18,
-      "logoURI": "https://docs.velodrome.finance/tokens/fBOMB.svg"
-    },
-    {
-      "chainId": 10,
-      "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
-      "name": "Beefy",
-      "symbol": "BIFI",
-      "decimals": 18,
-      "logoURI": "https://docs.velodrome.finance/tokens/BIFI.svg"
-    },
-    {
-      "chainId": 10,
       "address": "0xfDeFFc7Ad816BF7867C642dF7eBC2CC5554ec265",
       "name": "Beefy Velo",
       "symbol": "BeVELO",
@@ -669,17 +653,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
-      "name": "Optimistic Thales Token",
-      "symbol": "THALES",
-      "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
       "address": "0xd8f365c2c85648f9b89d9f1bf72c0ae4b1c36cfd",
       "name": "TheDAO",
       "symbol": "TheDAO",
@@ -718,17 +691,6 @@
       "symbol": "UNI",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
-      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -895,14 +857,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
-      "name": "Fantom Bomb",
-      "symbol": "fBOMB",
-      "decimals": 18,
-      "logoURI": "https://docs.velodrome.finance/tokens/fBOMB.svg"
-    },
-    {
-      "chainId": 10,
       "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
       "name": "Beefy",
       "symbol": "BIFI",
@@ -954,17 +908,6 @@
       "symbol": "POOL",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
-      "address": "0x374Ad0f47F4ca39c78E5Cc54f1C9e426FF8f231A",
-      "name": "Premia",
-      "symbol": "PREMIA",
-      "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1091,17 +1034,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
-      "name": "Synthetix USD",
-      "symbol": "sUSD",
-      "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
       "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
       "name": "Optimistic Thales Token",
       "symbol": "THALES",
@@ -1124,44 +1056,11 @@
     },
     {
       "chainId": 10,
-      "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
-      "name": "TrueUSD",
-      "symbol": "TUSD",
-      "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
-      "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
-      "name": "UMA Voting Token v1",
-      "symbol": "UMA",
-      "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UMA/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
       "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-      }
-    },
-    {
-      "chainId": 10,
-      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1527,19 +1426,6 @@
       "symbol": "FIRE",
       "decimals": 9,
       "logoURI": "https://docs.velodrome.finance/tokens/FIRE.png"
-    },
-	    {
-      "chainId": 10,
-      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "opListId": "default",
-        "opTokenId": "USDT"
-      }
     },
     {
       "chainId": 10,
