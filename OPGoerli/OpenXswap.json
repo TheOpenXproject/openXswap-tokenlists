@@ -77,6 +77,14 @@
     },
     {
       "chainId": 420,
+      "address": "0x501a22ae788E85252bdc5613427Ad048C54dBFAc",
+      "decimals": 18,
+      "name": "fVelodrome",
+      "symbol": "forkVELO",
+      "logoURI": "https://avatars.githubusercontent.com/u/104097115?s=200&v=4"
+    },
+    {
+      "chainId": 420,
       "address": "0xAFfFEAe33CBB1aa0ddc92410F89e188f6d783f26",
       "decimals": 18,
       "name": "tVelodrome",
