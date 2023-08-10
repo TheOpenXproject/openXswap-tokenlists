@@ -42,7 +42,7 @@
         "decimals":18,
         "name":"Mai Stablecoin",
         "symbol":"MAI",
-        "logoURI":"https://docs.velodrome.finance/tokens/wUSDR.svg"
+        "logoURI":"https://docs.velodrome.finance/tokens/MAI.svg"
     },
     {
         "chainId":10,
