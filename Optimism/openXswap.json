@@ -1096,8 +1096,16 @@
         "logoURI":"https://docs.velodrome.finance/tokens/USD+.svg"
     },
     {
+      "chainId": 10,
+      "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+      "decimals": 18,
+      "name": "Extra Finance",
+      "symbol": "EXTRA",
+      "logoURI": "https://assets.smold.app/api/token/10/0x2dAD3a13ef0C6366220f989157009e501e7938F8/logo.svg"
+    },
+    {
         "chainId":10,
-        "address":"0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+        "address":"0x5976d4c3bcfc1c5f90ab1419d7f3ddf109cea35a",//
         "decimals":18,
         "name":"Good Nodes",
         "symbol":"GNode",
