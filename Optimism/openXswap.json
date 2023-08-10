@@ -1105,7 +1105,7 @@
     },
     {
         "chainId":10,
-        "address":"0x5976d4c3bcfc1c5f90ab1419d7f3ddf109cea35a",//
+        "address":"0x5976d4c3bcfc1c5f90ab1419d7f3ddf109cea35a",
         "decimals":18,
         "name":"Good Nodes",
         "symbol":"GNode",
