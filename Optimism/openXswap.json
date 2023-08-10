@@ -1099,9 +1099,9 @@
         "chainId":10,
         "address":"0x2dAD3a13ef0C6366220f989157009e501e7938F8",
         "decimals":18,
-        "name":"Extra Finance",
-        "symbol":"EXTRA",
-        "logoURI":""
+        "name":"Good Nodes",
+        "symbol":"GNode",
+        "logoURI":"https://assets.smold.app/api/token/10/0x5976d4c3bcFc1c5f90aB1419D7f3dDF109cEA35a/logo.svg"
     }
 ]
 }
