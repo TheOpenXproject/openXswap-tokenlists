@@ -972,100 +972,13 @@
       }
     },
     {
-      "chainId": 1337,
-      "address": "0x5AE99ccE8b5BC9c639A27CCC2c84448C7a6a0A12",
-      "decimals": 18,
-      "name": "Old xOpenX Optimism",
-      "symbol": "Old xOpenX",
-      "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/xX.png"
-    },
-    {
-      "chainId": 1337,
-      "address": "0x7aE97042a4A0eB4D1eB370C34BfEC71042a056B7",
-      "decimals": 18,
-      "name": "200 Keys Token",
-      "symbol": "UNLOCK",
-      "logoURI": "https://docs.velodrome.finance/tokens/UNLOCK.png"
-    },
-     {
-      "chainId": 1337,
-      "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+
+      "chainId": 10,
+      "address": "0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776",
+      "name": "Promethios",
+      "symbol": "FIRE",
       "decimals": 9,
-      "name": "Wrapped USDR",
-      "symbol": "wUSDR",
-      "logoURI": "https://docs.velodrome.finance/tokens/wUSDR.svg"
-    },
-     {
-      "chainId": 1337,
-      "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
-      "decimals": 18,
-      "name": "Hundred Finance",
-      "symbol": "HND",
-      "logoURI": "https://docs.velodrome.finance/tokens/HND.png"
-    },
-     {
-      "chainId": 1337,
-      "address": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
-      "decimals": 18,
-      "name": "Alchemix ETH",
-      "symbol": "alETH",
-      "logoURI": "https://docs.velodrome.finance/tokens/alETH.svg"
-    },
-     {
-      "chainId": 1337,
-      "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
-      "decimals": 18,
-      "name": "Alchemix USD",
-      "symbol": "alUSD",
-      "logoURI": "https://docs.velodrome.finance/tokens/alUSD.svg"
-    },
-    {
-      "chainId": 1337,
-      "address": "0xdb4eA87fF83eB1c80b8976FC47731Da6a31D35e5",
-      "decimals": 18,
-      "name": "wTBT(Bridge Token) ",
-      "symbol": "wTBT",
-      "logoURI": ""
-    },
-    {
-      "chainId": 1337,
-      "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
-      "decimals": 18,
-      "name": "BOB",
-      "symbol": "BOB",
-      "logoURI": ""
-    },
-    {
-      "chainId": 1337,
-      "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
-      "decimals": 18,
-      "name": "agEUR",
-      "symbol": "agEUR",
-      "logoURI": "https://docs.velodrome.finance/tokens/agEUR.svg"
-    },
-     {
-      "chainId": 1337,
-      "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
-      "decimals": 6,
-      "name": "USD+",
-      "symbol": "USD+",
-      "logoURI": "https://docs.velodrome.finance/tokens/USD+.png"
-    },
-     {
-      "chainId": 1337,
-      "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
-      "decimals": 18,
-      "name": "Extra Finance",
-      "symbol": "EXTRA",
-      "logoURI": ""
-    }, 
-    {
-      "chainId": 1337,
-      "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
-      "decimals": 18,
-      "name": "Rocket Pool ETH",
-      "symbol": "rETH",
-      "logoURI": "https://optimistic.etherscan.io/token/images/Rocketpool_128.png"
+      "logoURI": "https://docs.velodrome.finance/tokens/FIRE.png"
     }
   ]
 }
