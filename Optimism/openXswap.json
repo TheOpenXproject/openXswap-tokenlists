@@ -678,7 +678,7 @@
       "address":"0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
       "name":"Synthetix",
       "symbol":"SNX",
-      "decimals":18,
+      "decimals":18,0x2dad3a13ef0c6366220f989157009e501e7938f8
       "logoURI":"https://ethereum-optimism.github.io/data/SNX/logo.svg",
       "extensions":{
         "optimismBridgeAddress":"0x136b1EC699c62b0606854056f02dC7Bb80482d63",
@@ -1293,7 +1293,7 @@
       "decimals":18,
       "name":"Extra Finance",
       "symbol":"EXTRA",
-      "logoURI":""
+      "logoURI":"https://assets.smold.app/api/token/10/0x2dAD3a13ef0C6366220f989157009e501e7938F8/logo.svg"
     },
     {
       "chainId":10,
