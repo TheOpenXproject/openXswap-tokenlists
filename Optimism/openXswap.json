@@ -2014,6 +2014,14 @@
       "name":"Good Nodes",
       "symbol":"GNode",
       "logoURI":"https://assets.smold.app/api/token/10/0x5976d4c3bcFc1c5f90aB1419D7f3dDF109cEA35a/logo.svg"
+    },
+    {
+      "chainId":10,
+      "address":"0x8901cb2e82cc95c01e42206f8d1f417fe53e7af0",
+      "decimals":18,
+      "name":"YieldFarming Index",
+      "symbol":"YFX",
+      "logoURI":"https://assets.smold.app/api/token/10/0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0/logo.svg"
     }
   ]
 }
