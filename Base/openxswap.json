@@ -1,0 +1,26 @@
+{
+  "name": "openXswap Token List",
+  "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/X.png",
+  "tokens": [
+    {
+      "chainId":10,
+      "address":"0x4200000000000000000000000000000000000006",
+      "name":"Ether",
+      "symbol":"ETH",
+      "decimals":18,
+      "logoURI":"https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "extensions":{
+        "opListId":"default",
+        "opTokenId":"WETH"
+      }
+    },
+    {
+      "address": "0xd386a121991E51Eab5e3433Bf5B1cF4C8884b47a",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/02/Flow-circle-aqua-150x150.png",
+      "name": "Flow",
+      "symbol": "FLOW"
+    }
+  ]
+}
