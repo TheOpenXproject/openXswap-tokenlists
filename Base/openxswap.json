@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/X.png",
   "tokens": [
     {
-      "chainId":10,
+      "chainId":8453,
       "address":"0x4200000000000000000000000000000000000006",
       "name":"Ether",
       "symbol":"ETH",
