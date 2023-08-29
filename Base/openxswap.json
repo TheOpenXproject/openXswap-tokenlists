@@ -21,6 +21,14 @@
       "logoURI": "https://cre8r.vip/wp-content/uploads/2023/02/Flow-circle-aqua-150x150.png",
       "name": "Flow",
       "symbol": "FLOW"
-    }
+    },
+    {
+      "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://assets.smold.app/api/token/8453/0x940181a94A35A4569E4529A3CDfB74e38FD98631/logo.svg",
+      "name": "Aerodrome finance",
+      "symbol": "AERO"
+    },
   ]
 }
