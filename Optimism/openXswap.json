@@ -935,6 +935,14 @@
     },
     {
       "chainId":10,
+      "address":"0x259c1c2ed264402b5ed2f02bc7dc25a15c680c18",
+      "name":"OneRing V2",
+      "symbol":"RING V2",
+      "decimals":18,
+      "logoURI":"https://docs.velodrome.finance/tokens/RING.png"
+    },
+    {
+      "chainId":10,
       "address":"0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
       "name":"Fantom Bomb",
       "symbol":"fBOMB",
