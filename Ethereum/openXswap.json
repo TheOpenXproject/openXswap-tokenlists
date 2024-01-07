@@ -35,6 +35,14 @@
   "decimals": 18,
   "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
 },
+    {
+  "chainId": 1,
+  "address": "0x777172D858dC1599914a1C4c6c9fC48c99a60990",
+  "name": "Solidly",
+  "symbol": "SOLID",
+  "decimals": 18,
+  "logoURI": "https://solidly.com/tokens/solid.png"
+},
 {
   "chainId": 1,
   "address": "0xEd04915c23f00A313a544955524EB7DBD823143d",
