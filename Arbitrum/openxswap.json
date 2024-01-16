@@ -1217,6 +1217,13 @@
             }
         },
         {
+            "name": "RAMSES",
+            "address": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
+            "symbol": "RAM",
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
             "chainId":42161,
             "address":"0xd67D9F7E018B4e7613b0251BBe3Ba3988Baf7C16",
             "name":"New era",
