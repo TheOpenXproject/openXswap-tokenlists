@@ -230,6 +230,14 @@
       }
     },
     {
+          "address": "0xa19328fb05ce6fd204d16c2a2a98f7cf434c12f4",
+          "name": "L2VE",
+          "symbol": "L2VE",
+          "logoURI": "https://assets.smold.app/api/token/8453/0xA19328fb05ce6FD204D16c2a2A98F7CF434c12F4/logo.svg",
+          "chainId": 8453,
+          "decimals": 18
+    },
+    {
       "chainId":8453,
       "address":"0x30136B90e532141FeD006c61105cff3668b5c774",
       "name":"BlueSwap",
