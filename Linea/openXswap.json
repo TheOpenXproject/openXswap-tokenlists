@@ -31,8 +31,8 @@
     {
         "chainId": 59144,
         "address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
-        "name": "Lynex",
-        "symbol": "LYNEX",
+        "name": "Linex Lynx Token",
+        "symbol": "LYNX",
         "decimals": 18,
         "logoURI": "https://lynex-frontend-git-rebrand-defiswami.vercel.app/logo.png"
     },
