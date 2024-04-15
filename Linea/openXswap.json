@@ -15,10 +15,10 @@
     {
         "chainId": 59144,
         "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
+        "name": "Ether",
+        "symbol": "ETH",
         "decimals": 18,
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
+        "logoURI":"https://ethereum-optimism.github.io/data/ETH/logo.svg"
     },
     {
         "chainId": 59144,
