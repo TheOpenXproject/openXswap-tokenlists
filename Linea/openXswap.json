@@ -687,21 +687,6 @@
     {
       "chainId": 59144,
       "chainURI": "https://lineascan.build/block/0",
-      "tokenId": "https://lineascan.build/address/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-      "tokenType": [
-        "native"
-      ],
-      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "createdAt": "2023-08-08",
-      "updatedAt": "2023-08-08",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
-    },
-    {
-      "chainId": 59144,
-      "chainURI": "https://lineascan.build/block/0",
       "tokenId": "https://lineascan.build/address/0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
       "tokenType": [
         "canonical-bridge"
