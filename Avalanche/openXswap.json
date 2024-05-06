@@ -76,6 +76,14 @@
   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50/logo.png"
 },
 {
+  "address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
+  "name": "PHARAOH",
+  "symbol": "PHAR",
+  "logoURI": "https://asset-images.messari.io/images/0de9fa24-04d0-43c2-b27b-4c613afa61d2/128.png",
+  "chainId": 43114,
+  "decimals": 18
+},
+{
   "chainId": 43114,
   "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
   "decimals": 18,
