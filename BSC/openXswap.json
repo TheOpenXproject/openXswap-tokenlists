@@ -35,6 +35,7 @@
   "decimals": 9,
   "logoURI": "https://tokens.pancakeswap.finance/images/0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F.png"
 },
+{"chainId":56,"address":"0xf4c8e32eadec4bfe97e0f595add0f4450a863a11","name":"Thena","symbol":"THE","decimals":18,"logoURI":"https://ipfs.io/ipfs/QmchoEj86pzWxy5XsLKtuw5b2QXNuuzHA25GDDfcTh8jdw"},
 {
   "chainId": 56,
   "address": "0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
