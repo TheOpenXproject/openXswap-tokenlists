@@ -19,6 +19,7 @@
   "symbol": "PNG",
   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
 },
+{"chainId":43114,"address":"0xaaab9d12a30504559b0c5a9a5977fee4a6081c6b","name":"Pharaoh","symbol":"PHAR","decimals":18,"logoURI":"https://ipfs.io/ipfs/QmYWTbMs2w8tGu2fAUXejKR4ukcyJB8PUoqYEf29osMva9"},
 {
   "chainId": 43114,
   "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
