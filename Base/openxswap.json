@@ -8,6 +8,18 @@
   ],
   "timestamp": "2024-12-12T01:37:13.419Z",
   "tokens": [
+    {
+      "chainId":8453,
+      "address":"0x4200000000000000000000000000000000000006",
+      "name":"Ether",
+      "symbol":"ETH",
+      "decimals":18,
+      "logoURI":"https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "extensions":{
+        "opListId":"default",
+        "opTokenId":"WETH"
+      }
+    },
   	{
       "address":"0x940181a94a35a4569e4529a3cdfb74e38fd98631",
       "chainId":8453,
@@ -15,6 +27,31 @@
       "logoURI":"https://assets.smold.app/api/token/8453/0x940181a94A35A4569E4529A3CDfB74e38FD98631/logo.svg",
       "name":"Aerodrome Finance",
       "symbol":"AERO"
+    },
+    {
+      "chainId": 8453,
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "decimals": 6,
+      "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
+      "extensions": {
+        "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "BridgedUSDC"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+      "extensions": {
+        "opListId": "default",
+        "opTokenId": "USDC"
+      }
     },
     {
       "chainId": 1,
@@ -1286,19 +1323,6 @@
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
         "redstoneBridgeAddress": "0xc473ca7E02af24c129c2eEf51F2aDf0411c1Df69",
         "liskBridgeAddress": "0xE3622468Ea7dD804702B56ca2a4f88C0936995e6",
-        "opListId": "extended",
-        "opTokenId": "BridgedUSDC"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
-      "name": "USD Base Coin",
-      "symbol": "USDbC",
-      "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
-      "extensions": {
-        "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "extended",
         "opTokenId": "BridgedUSDC"
       }
@@ -9364,18 +9388,6 @@
       }
     },
     {
-      "chainId": 8453,
-      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
-      "extensions": {
-        "opListId": "default",
-        "opTokenId": "USDC"
-      }
-    },
-    {
       "chainId": 84532,
       "address": "0x036CbD53842c5426634e7929541eC2318f3dCF7e",
       "name": "USDC",
@@ -10087,18 +10099,6 @@
       "extensions": {
         "opListId": "default",
         "opTokenId": "WETH"
-      }
-    },
-    {
-      "chainId":8453,
-      "address":"0x4200000000000000000000000000000000000006",
-      "name":"Ether",
-      "symbol":"ETH",
-      "decimals":18,
-      "logoURI":"https://ethereum-optimism.github.io/data/ETH/logo.svg",
-      "extensions":{
-        "opListId":"default",
-        "opTokenId":"WETH"
       }
     },
     {
