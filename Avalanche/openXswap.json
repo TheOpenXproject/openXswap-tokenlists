@@ -23,6 +23,7 @@
       "symbol": "AVAX"
     },
     {"chainId":43114,"address":"0xaaab9d12a30504559b0c5a9a5977fee4a6081c6b","name":"Pharaoh","symbol":"PHAR","decimals":18,"logoURI":"https://ipfs.io/ipfs/QmYWTbMs2w8tGu2fAUXejKR4ukcyJB8PUoqYEf29osMva9"},
+    {"chainId":43114,"address":"0xd5d0a9b3f2c264b955ae7161cfa6d38a7aea60a7","name":"abcPHAR","symbol":"abcPHAR","decimals":18,"logoURI":"https://ipfs.io/ipfs/QmYWTbMs2w8tGu2fAUXejKR4ukcyJB8PUoqYEf29osMva9"},
     {
       "chainId": 43113,
       "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
