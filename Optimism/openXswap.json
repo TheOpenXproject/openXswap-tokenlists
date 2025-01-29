@@ -75,6 +75,14 @@
     },
     {
       "chainId":10,
+      "address":"0xBa5eD706c58c053FCE06544E29Daf1A65cc6c0De",
+      "decimals":18,
+      "name":"Open X Project",
+      "symbol":"OXP",
+      "logoURI":"https://raw.githubusercontent.com/TheOpenXproject/openXswap-misc/master/img/X.png"
+    },
+    {
+      "chainId":10,
       "address":"0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
       "name":"Synthetic Ether",
       "symbol":"sETH",
