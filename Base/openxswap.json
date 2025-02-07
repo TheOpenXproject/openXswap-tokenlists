@@ -54,6 +54,14 @@
       }
     },
     {
+      "chainId": 8453,
+      "address": "0x64FCC3A02eeEba05Ef701b7eed066c6ebD5d4E51",
+      "name": "Spectra Token",
+      "symbol": "SPECTRA",
+      "decimals": 18,
+      "logoURI": "https://app.spectra.finance/images/tokens/8453/0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51.svg"
+    },
+    {
       "chainId":8453,
       "address":"0xBa5eD706c58c053FCE06544E29Daf1A65cc6c0De",
       "decimals":18,
